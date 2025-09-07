@@ -1,5 +1,3 @@
-Perfect 🚀 — since this is a **Multiplication Calculator** built with **HTML, CSS, and JavaScript**, the README should be simple, clean, and structured so anyone (whether recruiter, collaborator, or random GitHub visitor) can quickly understand and try your project.
-
 #  Multiplication Calculator
 
 A simple and interactive **Multiplication Calculator** built with **HTML, CSS, and JavaScript**.
@@ -29,11 +27,11 @@ This project allows users to enter two numbers and instantly see the multiplicat
 
 ##  Getting Started
 
-1. Clone the repository:
+1. Clone the repository
 
-   git repo: 
+   git repo: https://github.com/eischideraa-unn/html-Xcalc.git
 
-2. Open  in your browser.
+2. Open https://eischideraa-unn.github.io/html-Xcalc/  in your browser.
 
 3. Enter two numbers, click **Calculate**, and see the result! 🎉
 
